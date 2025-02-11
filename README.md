@@ -4,7 +4,7 @@ Esta é uma API REST simples para gerenciamento de usuários, construída com Fl
 
 ## Tecnologias Utilizadas
 
-- **Flask**: Framework web leve para Python.
+- **Flask**: Framework web para Python.
 - **PyMongo**: Biblioteca para interagir com o MongoDB a partir de Python.
 - **MongoDB**: Banco de dados NoSQL para armazenamento de dados.
 
