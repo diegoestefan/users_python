@@ -30,8 +30,7 @@ A API também inclui **documentação Swagger** interativa para facilitar o uso 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/diegoestefan/users_python.git
 
 2. Instale as dependências:
 
